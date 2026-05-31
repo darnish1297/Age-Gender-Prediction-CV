@@ -1,0 +1,10 @@
+venv/
+env/
+archive/
+archive (1)/
+UTKFace/
+*.jpg
+*.zip
+__pycache__/
+*.pyc
+.gradio/
